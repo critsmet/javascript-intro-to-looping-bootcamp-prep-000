@@ -23,4 +23,3 @@ function doWhileLoop(array) {
   do { --array.length 
   } while (array.length > 0 && maybeTrue());
 }
-return array
